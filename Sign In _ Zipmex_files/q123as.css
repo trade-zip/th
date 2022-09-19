@@ -1,0 +1,512 @@
+.css-1govs9x {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+    margin: 0px auto;
+}
+
+@media (min-width: 600px)
+<style>
+.css-10bjjys {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+@media (min-width: 0px)
+<style>
+.css-10bjjys {
+    padding-right: 16px;
+    padding-left: 16px;
+}
+
+
+.css-10bjjys {
+    box-sizing: border-box;
+    flex-flow: row wrap;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    align-items: center;
+    display: flex;
+    height: 100px;
+    width: 100%;
+}
+
+.css-usxb4q {
+    color: rgb(57, 68, 235);
+    background-color: rgb(233, 234, 253);
+    font-family: "Lab Grotesque", Prompt, -apple-system, BlinkMacSystemFont, helvetica, sans-serif;
+    font-weight: normal;
+    font-size: 16px;
+    padding: 16px 20px;
+    width: 100%;
+    white-space: nowrap;
+    border-radius: 34px;
+    cursor: pointer;
+    border: none;
+    text-transform: none;
+    box-shadow: none;
+    transition: none 0s ease 0s;
+}
+
+.css-15ekach {
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    position: relative;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+    background-color: transparent;
+    outline: 0px;
+    border: 0px;
+    margin: 0px;
+    cursor: pointer;
+    user-select: none;
+    vertical-align: middle;
+    appearance: none;
+    text-decoration: none;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    font-size: 0.875rem;
+    letter-spacing: 0.02857em;
+    text-transform: uppercase;
+    min-width: 64px;
+    border-radius: 4px;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    color: rgb(25, 118, 210);
+    display: none;
+    line-height: 1.66;
+    width: auto !important;
+    padding: 8px 24px !important;
+    font-weight: 500 !important;
+}
+
+.css-17mabs2 {
+    margin: 0px 2px;
+}
+
+.css-doybeh {
+    display: flex;
+    flex-direction: column;
+    -webkit-box-pack: start;
+    justify-content: start;
+    background: rgb(255, 255, 255);
+    border-radius: 16px;
+    box-shadow: rgb(0 0 0 / 1%) 0px 6px 18px 5px, rgb(0 0 0 / 2%) 0px 4px 8px;
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    padding: 24px;
+}
+
+.css-jhp6nt {
+    font-family: "Lab Grotesque", Prompt, -apple-system, BlinkMacSystemFont, helvetica, sans-serif;
+    font-size: 34px;
+    padding: 0px;
+    margin: 0px;
+    
+    line-height: 130%;
+    color: rgb(17, 17, 17);
+    text-align: left;
+    text-transform: none;
+    overflow-wrap: break-word;
+}
+
+.css-vfrd1l {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 0px;
+    padding-bottom: 16px;
+}
+
+.css-13sljp9 {
+    display: inline-flex;
+    flex-direction: column;
+    position: relative;
+    min-width: 0px;
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    vertical-align: top;
+}
+
+.css-1uu9wxl {
+    color: rgb(0, 0, 0);
+    font-family: "Lab Grotesque", Prompt, -apple-system, BlinkMacSystemFont, helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: left;
+}
+
+.css-1fmrbbw {
+    font-family: "Lab Grotesque", Prompt, -apple-system, BlinkMacSystemFont, helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 20px;
+    color: rgb(0, 0, 0);
+}
+
+.css-348fk2 {
+    color: rgba(0, 0, 0, 0.6);
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.4375em;
+    letter-spacing: 0.00938em;
+    padding: 0px;
+    display: block;
+    transform-origin: left top;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 133%;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    transform: translate(0px, -1.5px) scale(0.75);
+    transition: color 200ms cubic-bezier(0, 0, 0.2, 1) 0ms, transform 200ms cubic-bezier(0, 0, 0.2, 1) 0ms, max-width 200ms cubic-bezier(0, 0, 0.2, 1) 0ms;
+}
+
+label + .css-sg6ih8 {
+    margin-top: 24px;
+}
+
+.css-sg6ih8 {
+    box-sizing: border-box;
+    position: relative;
+    cursor: text;
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    color: rgb(0, 0, 0);
+    font-family: "Lab Grotesque", Prompt, -apple-system, BlinkMacSystemFont, helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    letter-spacing: 0px;
+    background-color: rgb(245, 245, 245);
+    border: 2px solid rgb(245, 245, 245);
+    border-radius: 8px;
+}
+
+.css-sg6ih8 .MuiInputBase-input {
+    padding: 16px;
+    text-align: left;
+}
+
+.css-mnn31 {
+    font: inherit;
+    letter-spacing: inherit;
+    color: currentcolor;
+    padding: 4px 0px 5px;
+    border: 0px;
+    box-sizing: content-box;
+    background: none;
+    height: 1.4375em;
+    margin: 0px;
+    -webkit-tap-highlight-color: transparent;
+    display: block;
+    min-width: 0px;
+    width: 100%;
+    animation-name: mui-auto-fill-cancel;
+    animation-duration: 10ms;
+}
+
+.css-1ixav0c.Mui-error {
+    color: rgb(250, 71, 100);
+}
+
+.css-16763fa.Mui-error {
+    color: rgb(211, 47, 47);
+}
+
+.css-1ixav0c {
+    color: rgb(0, 0, 0);
+    font-size: 12px;
+    line-height: 140%;
+    text-align: left;
+    margin-top: 8px;
+}
+
+.css-16763fa {
+    color: rgba(0, 0, 0, 0.6);
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 0.75rem;
+    line-height: 1.66;
+    letter-spacing: 0.03333em;
+    text-align: left;
+    margin: 3px 0px 0px;
+    display: none;
+}
+
+.css-1nvf7g0 {
+    display: flex;
+    height: 0.01em;
+    max-height: 2em;
+    -webkit-box-align: center;
+    align-items: center;
+    white-space: nowrap;
+    color: rgba(0, 0, 0, 0.54);
+    margin-left: 8px;
+}
+
+.css-jjmn6u {
+    height: 20px;
+    width: 20px;
+    cursor: pointer;
+    margin-right: 16px;
+    color: rgb(124, 136, 150);
+}
+
+.css-vubbuv {
+    user-select: none;
+    width: 1em;
+    height: 1em;
+    display: inline-block;
+    fill: currentcolor;
+    flex-shrink: 0;
+    transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    font-size: 1.5rem;
+}
+
+.css-1iqu2oi {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 8px 0px 0px;
+    padding-bottom: 16px;
+}
+
+.css-1reneuh.MuiButton-contained {
+    color: rgb(255, 255, 255);
+    background-color: rgb(57, 68, 235);
+}
+
+.css-1reneuh {
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+    outline: 0px;
+    margin: 0px;
+    user-select: none;
+    vertical-align: middle;
+    appearance: none;
+    text-decoration: none;
+    letter-spacing: 0.02857em;
+    min-width: 64px;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    color: rgb(255, 255, 255);
+    background-color: rgb(25, 118, 210);
+    font-size: 16px;
+    font-family: "Lab Grotesque", Prompt, -apple-system, BlinkMacSystemFont, helvetica, sans-serif;
+    font-weight: normal;
+    text-transform: none;
+    position: relative;
+    padding: 16px 20px;
+    border: 0px solid;
+    border-radius: 40px;
+    cursor: pointer;
+    width: 100%;
+    line-height: 20px;
+    display: flex;
+    box-shadow: none;
+}
+
+.css-w0pj6f {
+    overflow: hidden;
+    pointer-events: none;
+    position: absolute;
+    z-index: 0;
+    inset: 0px;
+    border-radius: inherit;
+}
+
+
+.jss1 {
+    text-transform: capitalize;
+}
+
+.css-15fzcoc {
+    margin: 0px;
+    text-decoration: none;
+    color: rgb(57, 68, 235);
+    font-family: "Lab Grotesque", Prompt, -apple-system, BlinkMacSystemFont, helvetica, sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    display: block;
+}
+
+.css-sg6ih8.Mui-focused {
+    border: 2px solid rgb(151, 255, 255);
+    background-color: rgb(255, 255, 255);
+}
+.css-1eu1xvg {
+    margin: 0px;
+    text-decoration: underline 2px rgb(149, 255, 144);
+    color: rgb(21, 34, 51);
+    font-family: "Lab Grotesque", Prompt, -apple-system, BlinkMacSystemFont, helvetica, sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    text-underline-position: under;
+}
+
+.css-11hpvnj .MuiAlert-icon {
+    color: rgb(239, 83, 80);
+}
+
+.css-1l54tgj {
+    margin-right: 12px;
+    padding: 7px 0px;
+    display: flex;
+    font-size: 22px;
+    opacity: 0.9;
+}
+
+.css-1cw4hi4 {
+    user-select: none;
+    width: 1em;
+    height: 1em;
+    display: inline-block;
+    fill: currentcolor;
+    flex-shrink: 0;
+    transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    font-size: inherit;
+}
+
+.css-11hpvnj.MuiAlert-standardError {
+    background-color: rgba(250, 71, 100, 0.1);
+}
+
+.css-11hpvnj {
+    transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    box-shadow: none;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 0.875rem;
+    line-height: 1.43;
+    letter-spacing: 0.01071em;
+    background-color: rgb(253, 237, 237);
+    display: flex;
+    color: rgb(95, 33, 32);
+    border-radius: 8px;
+    padding: 8px 18px;
+}
+
+.css-1w0ym84 {
+    padding: 8px 0px;
+}
+
+.css-13vmka7 {
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    position: relative;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+    
+    outline: 0px;
+    border: 0px;
+    margin: 0px;
+    cursor: pointer;
+    user-select: none;
+    vertical-align: middle;
+    appearance: none;
+    text-decoration: none;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    font-size: 0.875rem;
+    letter-spacing: 0.02857em;
+    text-transform: uppercase;
+    min-width: 64px;
+    
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    color: rgb(25, 118, 210);
+    display: block;
+    line-height: 1.66;
+    width: auto !important;
+    padding: 8px 24px !important;
+    font-weight: 500 !important;
+}
+
+
+
+.css-xi606m {
+    text-align: center;
+}
+
+.css-1yuhvjn {
+    margin-top: 16px;
+}
+
+.css-1e25s9r {
+    font-family: sans-serif;
+    font-size: 48px;
+    padding: 0px;
+    margin: 0px;
+    
+    line-height: 130%;
+    color: rgb(17, 17, 17);
+    text-align: center;
+    text-transform: none;
+    overflow-wrap: break-word;
+}
+
+.css-1c9kibh {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.css-1c9kibh * {
+    font-family: "Lab Grotesque", Prompt, -apple-system, BlinkMacSystemFont, helvetica, sans-serif;
+}
+
+.css-1cv4ow8:not(:empty) {
+    padding: 8px 0px 0px;
+}
+
+.css-1cv4ow8 {
+    color: rgb(250, 71, 100);
+    font-family: "Lab Grotesque", Prompt, -apple-system, BlinkMacSystemFont, helvetica, sans-serif;
+    font-size: 12px;
+    line-height: 140%;
+    text-align: left;
+}
+
+.css-1hcm0m {
+    margin: 0px;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.5;
+    letter-spacing: 0.00938em;
+    font-family: inherit;
+}
+
+.css-iis6i0 {
+    display: flex;
+    width: 300px;
+    margin: 0px auto;
+    padding-left: 5px;
+    padding-top: 50px;
+    height: 100px;
+    flex-direction: row;
+    justify-content: space-around;
+    color: rgb(34, 188, 201);
+}
+
+.css-11pjo08 input:not(:placeholder-shown) {
+    border-bottom: 2px solid rgb(250, 71, 100) !important;
+}
